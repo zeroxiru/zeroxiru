@@ -26,10 +26,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zeroxiru&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## 
-
+## 🔥 Currently Exploring & A Fun Fact
+<h4>
+  🔭 I’m currently working on Restaurant and E-commerce website<br>👯 I’m looking to collaborate on open source projects which develop with React, Dot Net, and Web API<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about<br>
+💡 **Fun Fact:**  
+A programmer's favorite debugging technique is **"console.log()"**—until it becomes **"console.why-is-this-not-working()"** 🤯😂 
+</h4>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeroxiru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api?username=zeroxiru&show_icons=true&theme=dark&include_all_commits=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zeroxiru&icon=0&color=0)](https://visitcount.itsvg.in)
