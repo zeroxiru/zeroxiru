@@ -10,9 +10,7 @@
 ###
 
 # 💫 About Me:
-<h2 align="left">I’m a passionate MERN Stack Developer dedicated to building dynamic, scalable, and high-performance web applications. With expertise in React.js, Node.js, Express.js, and MongoDB, I specialize in crafting seamless user experiences backed by robust backend solutions.<br><br>While my journey began with .NET technologies (ASP.NET Core, Razor Pages, MSSQL), I have now fully transitioned to modern full-stack development, focusing on cutting-edge tools and frameworks. Currently, I'm also exploring backend optimizations and deep learning, expanding my ability to build intelligent, data-driven applications.<br><br>Always eager to learn and innovate, I thrive on solving complex challenges and creating impactful digital solutions. Let’s connect and build something amazing! 🚀</h2>
-
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h4 align="left">I’m a passionate MERN Stack Developer dedicated to building dynamic, scalable, and high-performance web applications. With expertise in React.js, Node.js, Express.js, and MongoDB, I specialize in crafting seamless user experiences backed by robust backend solutions.<br><br>While my journey began with .NET technologies (ASP.NET Core, Razor Pages, MSSQL), I have now fully transitioned to modern full-stack development, focusing on cutting-edge tools and frameworks. Currently, I'm also exploring backend optimizations and deep learning, expanding my ability to build intelligent, data-driven applications.<br><br>Always eager to learn and innovate, I thrive on solving complex challenges and creating impactful digital solutions. Let’s connect and build something amazing! 🚀</h4>
 
 
 ## 🌐 Socials:
@@ -27,6 +25,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zeroxiru&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+## 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zeroxiru&limit=5&theme=dark&combine_all_yearly_contributions=true)
