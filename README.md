@@ -10,7 +10,7 @@
 ###
 
 # 💫 About Me:
-<h4 align="left">I’m a passionate MERN Stack Developer dedicated to building dynamic, scalable, and high-performance web applications. With expertise in React.js, Node.js, Express.js, and MongoDB, I specialize in crafting seamless user experiences backed by robust backend solutions.<br><br>While my journey began with .NET technologies (ASP.NET Core, Razor Pages, MSSQL), I have now fully transitioned to modern full-stack development, focusing on cutting-edge tools and frameworks. Currently, I'm also exploring backend optimizations and deep learning, expanding my ability to build intelligent, data-driven applications.<br><br>Always eager to learn and innovate, I thrive on solving complex challenges and creating impactful digital solutions. Let’s connect and build something amazing! 🚀</h4>
+<h4 align="left">I’m a passionate MERN Stack Developer dedicated to building dynamic, scalable, and high-performance web applications. With expertise in React.js, Node.js, Express.js, and MongoDB, I specialize in crafting seamless user experiences backed by robust backend solutions.<br><br>While my journey began with .NET technologies (ASP.NET Core, Razor Pages, MSSQL) and Python, I have now fully transitioned to modern full-stack development, focusing on cutting-edge tools and frameworks. Currently, I'm also exploring backend optimizations and deep learning, expanding my ability to build intelligent, data-driven applications.<br><br>Always eager to learn and innovate, I thrive on solving complex challenges and creating impactful digital solutions. Let’s connect and build something amazing! 🚀</h4>
 
 
 ## 🌐 Socials:
