@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="218" src="https://i.ibb.co.com/p69nnZ7Z/Git-Hub-Banner-4.png"  />
+  <img height="218" src="https://i.ibb.co/p69nnZ7Z/Git-Hub-Banner-4.png"  />
 </div>
 
 
